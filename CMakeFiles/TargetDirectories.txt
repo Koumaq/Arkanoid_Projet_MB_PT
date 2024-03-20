@@ -1,0 +1,3 @@
+/mnt/c/Users/pokem/Desktop/Arkanoid/CMakeFiles/Arkanoid.dir
+/mnt/c/Users/pokem/Desktop/Arkanoid/CMakeFiles/edit_cache.dir
+/mnt/c/Users/pokem/Desktop/Arkanoid/CMakeFiles/rebuild_cache.dir
