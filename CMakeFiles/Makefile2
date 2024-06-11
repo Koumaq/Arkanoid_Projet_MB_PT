@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Users/pokem/Desktop/Arkanoid
+CMAKE_SOURCE_DIR = /mnt/c/Users/pokem/OneDrive/Desktop/cours/Cnam/Algo/Arkanoid
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Users/pokem/Desktop/Arkanoid
+CMAKE_BINARY_DIR = /mnt/c/Users/pokem/OneDrive/Desktop/cours/Cnam/Algo/Arkanoid
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/Arkanoid.dir/clean
 CMakeFiles/Arkanoid.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Arkanoid.dir/build.make CMakeFiles/Arkanoid.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Arkanoid.dir/build.make CMakeFiles/Arkanoid.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/c/Users/pokem/Desktop/Arkanoid/CMakeFiles --progress-num=1,2 "Built target Arkanoid"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/c/Users/pokem/OneDrive/Desktop/cours/Cnam/Algo/Arkanoid/CMakeFiles --progress-num=1,2 "Built target Arkanoid"
 .PHONY : CMakeFiles/Arkanoid.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Arkanoid.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/pokem/Desktop/Arkanoid/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/pokem/OneDrive/Desktop/cours/Cnam/Algo/Arkanoid/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Arkanoid.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/pokem/Desktop/Arkanoid/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/pokem/OneDrive/Desktop/cours/Cnam/Algo/Arkanoid/CMakeFiles 0
 .PHONY : CMakeFiles/Arkanoid.dir/rule
 
 # Convenience name for target.
